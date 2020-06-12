@@ -1,6 +1,6 @@
 # Introduction
 
-This sample uses kustomize + flux HelmReleases to manage different configurations for prod and dev environments. This sample referenced as a tenant in the soft multi-tenancy sample using Arc for K8s for gitops enablement found here: [arc-demo-multi-tenancy](https://github.com/Azure/arc-demo-multi-tenancy)
+This sample uses kustomize + flux HelmReleases to manage different configurations for prod and dev environments. This sample referenced as a tenant in the soft multi-tenancy sample using Arc for K8s for gitops enablement found here: [arc-demo-multi-tenancy](https://github.com/Azure-Samples/arc-demo-multi-tenancy)
 
 ## Branches
 
