@@ -5,7 +5,7 @@ metadata:
 spec:
   releaseName: azure-vote
   chart:
-    git: git@github.com:Azure/arc-multi-tenancy-demo.git
+    git: git@github.com:vyta/azure-voting-gitops-demo.git
     path: charts/azure-voting
     ref: master
   values:
