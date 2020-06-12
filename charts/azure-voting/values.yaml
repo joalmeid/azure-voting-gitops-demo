@@ -1,0 +1,7 @@
+# Azure Vote Image
+image: mcr.microsoft.com/azuredocs/azure-vote-front:v2
+
+# Azure Vote UI controll
+title: "Azure Vote App"
+value1: Blue
+value2: Green
